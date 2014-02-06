@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7a8f4ed2-e6f7-47b8-a4b5-3473fedd55cd" 
+        solutionId="7a8f4ed2-e6f7-47b8-a4b5-3473fedd55cd" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="HolidaySyncDemo1"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="73283434-9be5-429e-960e-4449fff02395" />
+  </features>
+</package>

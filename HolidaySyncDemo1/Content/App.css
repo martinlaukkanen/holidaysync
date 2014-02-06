@@ -1,0 +1,89 @@
+﻿/* Place custom styles below */
+
+/*DEMO: Add styles*/
+.HalfPage {
+    width:50%;
+    float:left;
+}
+.HalfPage h2 {
+    clear: left;
+    padding: 16px 0 4px;
+}
+
+.ContentPane {
+    margin: 0 32px 16px 0;
+}
+.ContentPane select {
+    width:100%;
+}
+
+.DatePickers label {    
+    margin-right: 16px;
+}
+.DatePickers input {
+    width: 45%; 
+}
+.RightHalf {
+    float:right;
+    text-align: right;
+}
+
+.ui-datepicker-trigger {
+    vertical-align: middle;
+    padding-left: 4px;
+}
+
+.FilterOpts input {
+    margin: 0 8px;
+}
+
+.ImportButton {
+    margin-top: 24px;
+    float:right;
+}
+
+.RetrieveButton {
+    margin-top: 24px;
+    float:left;
+    margin-left: 0px !important;
+}
+
+.listColumns {
+    -moz-columns:  2;
+    -webkit-columns:  2;
+    columns:  2;
+    list-style: none;
+    padding-left:0px;
+}
+
+
+#grid {
+  outline: 0;
+  border: 1px solid lightgrey;
+  height: 280px;
+}
+
+.slick-viewport {
+    overflow-x: hidden !important;
+}
+
+.slick-header-column.ui-state-default {
+    padding-top: 6px;
+    height: 26px;
+}
+
+.slick-header-columns {
+    border-bottom: 1px solid silver;    
+}
+
+.ui-state-default {
+    border: none;
+    background: none;
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+}
+
+.ui-widget {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+}

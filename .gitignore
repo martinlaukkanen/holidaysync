@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HolidaySyncDemo.v12.suo
+/HolidaySyncDemo1/bin/Debug
+/HolidaySyncDemo1/obj/Debug
+/HolidaySyncDemo1/pkg/Debug/HolidaySyncDemo1
+/HolidaySyncDemo1/pkgobj/Debug

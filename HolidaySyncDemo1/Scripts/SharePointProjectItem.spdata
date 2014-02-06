@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.9.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\jquery.event.drag-2.2.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\jquery.xml2json.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\jquery-ui-1.10.3.custom.min.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\slick.checkboxselectcolumn.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\slick.core.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\slick.dataview.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\slick.grid.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="libs\slick.rowselectionmodel.js" Target="Scripts\libs\" Type="ElementFile" />
+    <ProjectItemFile Source="Helpers.js" Target="Scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

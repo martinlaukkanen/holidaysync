@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\jquery.event.drag-2.2.js" Url="Scripts/libs/jquery.event.drag-2.2.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\jquery.xml2json.js" Url="Scripts/libs/jquery.xml2json.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\jquery-ui-1.10.3.custom.min.js" Url="Scripts/libs/jquery-ui-1.10.3.custom.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\slick.checkboxselectcolumn.js" Url="Scripts/libs/slick.checkboxselectcolumn.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\slick.core.js" Url="Scripts/libs/slick.core.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\slick.dataview.js" Url="Scripts/libs/slick.dataview.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\slick.grid.js" Url="Scripts/libs/slick.grid.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs\slick.rowselectionmodel.js" Url="Scripts/libs/slick.rowselectionmodel.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Helpers.js" Url="Scripts/Helpers.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
